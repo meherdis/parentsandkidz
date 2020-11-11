@@ -1,0 +1,114 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: red;
+    color: white;
+}
+header img{
+    width: 80px;
+}
+#main {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }#trending {
+    margin-top: 50px;
+  }
+  .title h2 {
+    font-size: 35px;
+    font-weight: bolder;
+  }
+  .bottom-line {
+    border: 4px solid blue;
+    height: 4px;
+    width: 80px;
+    margin-bottom: 30px;
+  }
+  #trending img {
+    height: 200px;
+    width: 320px;
+  }
+  #trending .blog {
+    border: 1px groove white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding-bottom: 10px;
+  }
+  #trending .left {
+    margin-right: 5px;
+  }
+  #trending .right {
+    margin-left: 5px;
+  }
+.blog .bottom-line {
+    border: 4px solid red;
+    height: 4px;
+    width: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+ .blog h2 {
+    font-size: 23px;
+  }
+   .blog h2:hover {
+    color: red;
+  }
+
+  #videosection{
+      background-color: black;
+      color: white;
+      padding: 20px;
+    
+  }
+  #videosection .bottom-line {
+    border: 4px solid green;
+    height: 4px;
+    width: 40px;
+    margin-bottom: 30px;
+  }
+  #videosection .left video {
+    height: 300px;
+    width: 600px;
+    border: 1px solid lightgray;
+  }
+  #videosection .right video {
+    height: 100px;
+    width: 350px;
+    border: 1px solid lightgray;
+  }
+ .btn{
+      text-align: center;
+  }
+  #main-blog {
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+  #main-blog img{
+    height: 200px;
+    width: 320px; 
+  }
+  #main-blog .blog{
+    border: 1px groove white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding-bottom: 10px;
+
+  }
+  #main-blog .left{
+      margin-right: 5px;
+  }
+  #main-blog .right{
+      margin-left: 5px;
+  }
+footer{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
